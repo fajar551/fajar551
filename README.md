@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Fajar Habib Zaelani</h1>
+<h1 align="center">Hi, I'm Fajar Habib Zaelani</h1>
 <h3 align="center">A passionate junior developer web from Bandung, Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -14,8 +14,6 @@
 - 💬 Ask me about **angular, react, laravel, and spring boot.**
 
 - 📫 How to reach me **fajarhabibzaelani@gmail.com**
-
-- ⚡ Fun fact **I think i'm funny 😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
